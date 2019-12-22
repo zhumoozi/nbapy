@@ -1,0 +1,25 @@
+	        </div>
+                </div>
+
+            </div>
+
+        </div>
+        <footer>
+            <div style="width:300px;margin:0 auto; padding:20px 0;">
+                <a href='../img/diao.jpg' class="diao" style="color:#888888;font-size: 14px;">关注公众号：叼的一批</a>
+                <p>比赛开始前几分钟会刷新直播源，刷新页面即可!!若无法解析或IOS系统卡顿，右上角浏览器打开！国外源，VPN需关闭！建议wifi下观看</p>
+                <p>篮球之路  @2019 NBAway  赣ICP备17010137号-1<br /></p>
+            <!--
+                <a target="_blank" href=" " style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+                <img src="../img/备案图标.png" style="float:left;" />
+                <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备32011302320804号</p ></a>
+
+            -->
+                <p>免责声明：本站所有直播和视频链接均由网友提供，如有侵权问题，请及时联系，我们将尽快处理。</p>
+            </div>
+        </footer>
+</body>
+
+
+
+</html>

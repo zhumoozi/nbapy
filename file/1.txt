@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/live_min.css">
+
+    <link rel="Shortcut Icon" href="../img/favicon.ico" type="image/x-icon" />
+
+    <title>NBAway </title>
+
+</head>
+
+
+
+
+
+<body>    
+
+        <div class="slides-container">
+
+            <div class="slide" name="推荐">
+
+                <div class="part">
+
+                    <h2>NBA &nbsp;&nbsp;&nbsp;<span id="text"></span> </h2>
+
+                    <div class="links">  
+                        <a href='#' style="color:#8B636C;font-size: 24px;"> 正在热播</a> 

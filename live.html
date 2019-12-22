@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/live_min.css">
+
+    <link rel="Shortcut Icon" href="../img/favicon.ico" type="image/x-icon" />
+
+    <title>NBAway </title>
+
+</head>
+
+
+
+
+
+<body>    
+
+        <div class="slides-container">
+
+            <div class="slide" name="推荐">
+
+                <div class="part">
+
+                    <h2>NBA &nbsp;&nbsp;&nbsp;<span id="text"></span> </h2>
+
+                    <div class="links">  
+
+<a href='https://www.tiantianzhibo.com/lanqiuzhibo/hanlanjia/20191201/105743-ttzb1-564.html'>16:00&nbsp;&nbsp;&nbsp;釜山KT音速弹 VS 首尔SK骑士</a>
+
+<a href='https://m.hupu.com/nba/game'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 数据统计</a>
+                    </div>
+                </div>
+<!--
+                <div class="part">
+
+                    <h2>CBA &nbsp;&nbsp;&nbsp;2019-11-20 </h2>
+                    <div class="links">
+                        <a href='https://m.tiantianzhibo.com/channel/ttzb6.html'>19：35&nbsp;&nbsp;&nbsp;北京首钢 VS 北京控股</a>
+
+                        <a href='https://m.tiantianzhibo.com/channel/ttzb4.html'>19：35&nbsp;&nbsp;&nbsp;浙江 VS 江苏</a>
+                        <a href='https://m.tiantianzhibo.com/channel/ttzb5.html'>19：35&nbsp;&nbsp;&nbsp;八一 VS 福建</a>
+                        <a href='https://m.tiantianzhibo.com/channel/ttzb6.html'>19：35&nbsp;&nbsp;&nbsp;新疆 VS 吉林</a>
+
+                    </div>
+                </div>
+-->
+            </div>
+
+        </div>
+        <footer>
+            <div style="width:300px;margin:0 auto; padding:20px 0;">
+                <a href='../img/diao.jpg' class="diao" style="color:#888888;font-size: 14px;">关注公众号：叼的一批</a>
+                <p>比赛开始前几分钟会刷新直播源，刷新页面即可!!若IOS系统卡顿，右上角浏览器打开！国外源，VPN需关闭！建议wifi下观看</p>
+                <p>篮球之路  @2019 NBAway  赣ICP备17010137号-1<br /></p>
+            <!--
+                <a target="_blank" href=" " style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+                <img src="../img/备案图标.png" style="float:left;" />
+                <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备32011302320804号</p ></a>
+
+            -->
+                <p>免责声明：本站所有直播和视频链接均由网友提供，如有侵权问题，请及时联系，我们将尽快处理。</p>
+            </div>
+        </footer>
+
+        <script type="text/javascript">
+            setInterval(on,1000);  //这里是使时间动起来的地方
+            function on() {
+            var date1 =new Date;
+            var  year=date1.getFullYear();
+            var  month=date1.getMonth();
+            var day=date1.getDate();
+            var xinqi=date1.getDay();
+            var hh=date1.getHours();
+            var mm=date1.getMinutes();
+            var ss=date1.getSeconds();
+            var time=year+"-"+(month+1)+"-"+day;
+            document.getElementById("text").innerHTML = time;
+            }
+        </script>
+
+
+</body>
+
+
+
+</html>
+

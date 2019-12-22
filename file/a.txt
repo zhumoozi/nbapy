@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../../css/livepage_min.css">
+
+    <link rel="Shortcut Icon" href="../../img/favicon.ico" type="image/x-icon" />
+
+    <title>NBAway </title>
+
+</head>
+
+
+
+
+
+<body>    
+
+        <div class="slides-container">
+
+            <div class="slide" name="推荐">
+
+                <div class="part">
+
+                    <div class="links">  
+                        <a href='#' style="color:#8B636C;font-size: 12px;"> 首选"体育直播"！建议浏览器打开观看</a> 

@@ -1,0 +1,8 @@
+		</div>
+                </div>
+
+                <div class="part">
+
+                    <h2>CBA &nbsp;&nbsp;&nbsp;<span id="text1"></span> </h2>
+                    <div class="links">
+                        <a href='#' style="color:#8B636C;FONT-SIZE: 24px;"> 正在热播</a> 
